@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.18)  24 APR 2017 01:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.18)  24 APR 2017 01:05
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -220,7 +220,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 Here is how much of TeX's memory you used:
  1972 strings out of 493333
  28217 string characters out of 3139185
- 94325 words of memory out of 3000000
+ 95325 words of memory out of 3000000
  5504 multiletter control sequences out of 15000+200000
  5424 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -231,7 +231,7 @@ Here is how much of TeX's memory you used:
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 116571 bytes).
+Output written on cv.pdf (1 page, 116606 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
